@@ -285,9 +285,9 @@ a {
 }
 
 .secure {
-    color: rgb(43, 208, 226);
+    color: hsl(186, 76%, 53%);
     text-decoration: none;
-    border: blueviolet 2px solid;
+    border: hsl(186, 76%, 53%) 2px solid;
     padding: 9px;
     margin: 30px;
     margin-right: 524px;
@@ -312,7 +312,7 @@ a {
 
 .b1 {
     font-size: 40px;
-    color: blueviolet;
+    color: hsl(186, 76%, 53%);
 }
 
 .b2 {
@@ -342,4 +342,23 @@ a {
 
 .d3 {
     margin-left: 2%;
+}
+
+.z1 {
+    background-color: rgb(232, 232, 138);
+    justify-items: center;
+    padding: 2%;
+}
+
+.s1 {
+    font-size: 25px;
+}
+
+.s2 {
+    justify-items: center;
+}
+
+.s3 {
+    margin: 4%;
+    justify-items: baseline;
 }
